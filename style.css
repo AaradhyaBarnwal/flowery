@@ -25,7 +25,7 @@ h1{
 
 }
 
-.next{
+.Next{
     align-self: center;
     justify-self: center;
     display: flex;
@@ -50,7 +50,7 @@ h1{
 }
 
 
-.next h4{
+.Next h4{
     text-decoration: none;
 }
 
@@ -82,17 +82,27 @@ h1{
     justify-content: center;
 }
 
-.jour{
+.text{
     background-color: aliceblue;
-    height: 40vh;
+    min-height: 40vh;
     width: 75vw;
     border-radius: 1rem;
     margin-left: 2rem;
+    display: none;
+    padding: 2rem;
+    font-size: large;
+    font-family: 'Basic';
+    padding: 2rem;
+    word-spacing: 1rem;
 }
 
 .con{
     display: grid;
     padding: 1.7rem;
+}
+
+p{
+    font-family: 'Basic';
 }
 
 @keyframes circle {
