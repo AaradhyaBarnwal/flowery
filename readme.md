@@ -9,3 +9,9 @@
 
 <h2>What is this?</h2>
 <p>A journal which disappears after refresh</p>
+
+<h2>What I struggled in :</h2>
+<li>Making  the flower animation</li>
+
+<h2>Inspiration:</h2>
+<li>The slow habit of writing my thoughts</li>
